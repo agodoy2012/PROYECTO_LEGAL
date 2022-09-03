@@ -1,0 +1,946 @@
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojAssemblyReference.cache
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Users\jeffm\source\repos\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojAssemblyReference.cache
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL (1)\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojAssemblyReference.cache
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojAssemblyReference.cache
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 2.0\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\ClosedXML.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\FastMember.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.IO.FileSystem.Primitives.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\System.IO.Packaging.dll
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\ClosedXML.pdb
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\ClosedXML.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.xml
+C:\Desarrollo\Seguimiento GT\SEGUIMIENTO_LEGAL 3.0\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\FastMember.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.Packaging.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.pdb
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojResolveAssemblyReference.cache
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Users\lsanchez\Documents\Visual Studio 2017\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\FastMember.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.Packaging.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.pdb
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\erodriguezm\Documents\Visual Studio 2015\Projects\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojResolveAssemblyReference.cache
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\FastMember.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.Packaging.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.pdb
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.AssemblyReference.cache
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CoreCompileInputs.cache
+C:\Users\Jeffry Matarrita\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csproj.CopyComplete
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll.config
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\SEGUIMIENTO_LEGAL.pdb
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.exe.config
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csc.rsp
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.exe.config
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\csi.rsp
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.AppContext.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Console.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Claims.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.exe.config
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\vbc.rsp
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\FastMember.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.IO.Packaging.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\WebGrease.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.Shared.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\stdole.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.pdb
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ClosedXML.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\DocumentFormat.OpenXml.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\ExcelNumberFormat.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Web.Optimization.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Newtonsoft.Json.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Antlr3.Runtime.pdb
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.csprojResolveAssemblyReference.cache
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.dll
+C:\Users\amurillom\Desktop\SEGUIMIENTO_LEGAL\SEGUIMIENTO_LEGAL\obj\Debug\SEGUIMIENTO_LEGAL.pdb

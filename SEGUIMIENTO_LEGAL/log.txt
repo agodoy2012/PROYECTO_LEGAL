@@ -1,0 +1,249 @@
+10/12/2018 01:02:09: System.Data; ExecuteReader: la propiedad Connection no se ha inicializado.
+10/12/2018 01:03:44: System.Data; ExecuteReader: la propiedad Connection no se ha inicializado.
+10/12/2018 08:59:08: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/12/2018 02:48:03: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/12/2018 03:13:38: System.Data; ExecuteScalar requiere una Connection abierta y disponible. El estado actual de la conexión es cerrada.
+11/12/2018 03:13:38: System.Data; ExecuteScalar requiere una Connection abierta y disponible. El estado actual de la conexión es cerrada.
+11/12/2018 03:20:12: .Net SqlClient Data Provider; No se permite la conversión implícita del tipo de datos datetime a int. Utilice la función CONVERT para ejecutar esta consulta.
+11/12/2018 03:20:13: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:20:59: .Net SqlClient Data Provider; Debe declarar la variable escalar '@FECHA_FINALIZACION_PAGO'.
+11/12/2018 03:20:59: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:15: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:15: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:15: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:15: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:16: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:16: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:17: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 03:43:53: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (11).
+Se terminó la instrucción.
+11/12/2018 03:43:53: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+11/12/2018 07:54:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/12/2018 08:02:41: System.Data; Valor de tiempo de espera caducado. El período de tiempo de espera expiró antes de obtener una conexión del grupo. Esto puede suceder porque todas las conexiones de la agrupación estaban en uso y se alcanzó el máximo tamaño del grupo.
+11/12/2018 08:02:51: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:02:53: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:03: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:31: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:05:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:06:47: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:08:22: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:08:26: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 08:09:37: System.Data; Valor de tiempo de espera caducado. El período de tiempo de espera expiró antes de obtener una conexión del grupo. Esto puede suceder porque todas las conexiones de la agrupación estaban en uso y se alcanzó el máximo tamaño del grupo.
+11/12/2018 08:09:41: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+11/12/2018 13:16:49: .Net SqlClient Data Provider; The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SL_EXPEDI__ID_TI__6E01572D". The conflict occurred in database "Pruebas", table "dbo.SL_TIPO_PAGO", column 'ID_TIPO_PAGO'.
+The statement has been terminated.
+11/12/2018 13:16:49: .Net SqlClient Data Provider; The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SL_HISTOR__ID_EX__71D1E811". The conflict occurred in database "Pruebas", table "dbo.SL_EXPEDIENTE_LEGAL", column 'ID_EXPEDIENTE_LEGAL'.
+The statement has been terminated.
+11/12/2018 13:20:16: .Net SqlClient Data Provider; The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SL_EXPEDI__ID_TI__6E01572D". The conflict occurred in database "Pruebas", table "dbo.SL_TIPO_PAGO", column 'ID_TIPO_PAGO'.
+The statement has been terminated.
+11/12/2018 13:20:16: .Net SqlClient Data Provider; The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SL_HISTOR__ID_EX__71D1E811". The conflict occurred in database "Pruebas", table "dbo.SL_EXPEDIENTE_LEGAL", column 'ID_EXPEDIENTE_LEGAL'.
+The statement has been terminated.
+11/12/2018 13:34:01: System.Data; No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.
+11/12/2018 13:41:42: System.Data; No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.
+11/12/2018 13:42:10: System.Data; No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.
+11/12/2018 13:43:11: System.Data; No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.
+11/12/2018 13:44:11: System.Data; No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.
+12/12/2018 12:14:50: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+12/12/2018 12:18:03: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+12/12/2018 12:18:37: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+12/12/2018 12:18:37: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+12/12/2018 12:54:49: .Net SqlClient Data Provider; La base de datos 'webbrowser' no existe. Asegúrese de que ha escrito el nombre correctamente.
+14/12/2018 13:28:23: .Net SqlClient Data Provider; Database 'webbrowser' does not exist. Make sure that the name is entered correctly.
+15/12/2018 14:11:48: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+15/12/2018 14:29:56: .Net SqlClient Data Provider; Invalid column name 'NUMERO_OPERACION'.
+16/12/2018 09:05:19: System.Data; La conversión especificada no es válida.
+16/12/2018 09:12:42: System.Data; La conversión especificada no es válida.
+16/12/2018 09:14:55: System.Data; La conversión especificada no es válida.
+16/12/2018 09:15:37: System.Data; La conversión especificada no es válida.
+16/12/2018 09:16:11: System.Data; La conversión especificada no es válida.
+16/12/2018 09:25:06: System.Data; La conversión especificada no es válida.
+16/12/2018 09:26:53: System.Data; La conversión especificada no es válida.
+16/12/2018 09:42:04: System.Data; La conversión especificada no es válida.
+16/12/2018 09:51:18: System.Data; La conversión especificada no es válida.
+16/12/2018 12:28:58: .Net SqlClient Data Provider; El nombre de columna 'MONTO_CARGOS_PAGARE' no es válido.
+17/12/2018 03:16:17: .Net SqlClient Data Provider; Debe declarar la variable escalar '@TIPO_PAGO'.
+17/12/2018 03:19:53: .Net SqlClient Data Provider; Debe declarar la variable escalar '@DETALLES'.
+17/12/2018 03:20:19: .Net SqlClient Data Provider; El nombre de columna 'MONTO_CARGOS_PAGARE' no es válido.
+17/12/2018 03:22:41: .Net SqlClient Data Provider; El nombre de columna 'MONTO_CARGOS_PAGARE' no es válido.
+17/12/2018 04:10:36: .Net SqlClient Data Provider; La consulta con parámetros '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@TIPO_PAGO in' espera el parámetro '@NOMBRE_JUZGADO', que no se ha proporcionado.
+17/12/2018 04:14:53: .Net SqlClient Data Provider; La consulta con parámetros '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@TIPO_PAGO in' espera el parámetro '@USUARIO_MODIFICA', que no se ha proporcionado.
+17/12/2018 05:30:53: .Net SqlClient Data Provider; El nombre de objeto 'registro_clientes' no es válido.
+17/12/2018 09:39:11: .Net SqlClient Data Provider; Invalid column name 'MONTO_CARGOS_PAGARE'.
+17/12/2018 09:39:15: .Net SqlClient Data Provider; Invalid column name 'MONTO_CARGOS_PAGARE'.
+18/12/2018 01:18:50: .Net SqlClient Data Provider; El nombre de objeto 'registro_clientes' no es válido.
+18/12/2018 03:07:24: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (457).
+Se terminó la instrucción.
+18/12/2018 03:07:25: .Net SqlClient Data Provider; Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK__SL_HISTOR__ID_EX__5165187F'. El conflicto ha aparecido en la base de datos 'WORKSPACE', tabla 'dbo.SL_EXPEDIENTE_LEGAL', column 'ID_EXPEDIENTE_LEGAL'.
+Se terminó la instrucción.
+19/12/2018 09:26:40: System.Data; Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM.
+20/12/2018 13:39:17: .Net SqlClient Data Provider; Violation of PRIMARY KEY constraint 'PK__SL_EXPED__0E79C0A3DDED47B0'. Cannot insert duplicate key in object 'dbo.SL_EXPEDIENTE_LEGAL'. The duplicate key value is (22222222).
+The statement has been terminated.
+20/12/2018 13:39:17: .Net SqlClient Data Provider; The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SL_HISTOR__ID_EX__7DCDAAA2". The conflict occurred in database "MONEYBACK", table "dbo.SL_EXPEDIENTE_LEGAL", column 'ID_EXPEDIENTE_LEGAL'.
+The statement has been terminated.
+21/12/2018 04:46:22: .Net SqlClient Data Provider; El procedimiento o la función 'SL_SP_CANTIDAD_ETAPAS_GT' esperaba el parámetro '@PAIS', que no se ha especificado.
+21/12/2018 05:14:21: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+21/12/2018 05:15:21: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (0).
+Se terminó la instrucción.
+21/12/2018 05:32:15: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+21/12/2018 05:32:15: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 05:32:56: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 05:33:25: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 05:33:25: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 05:35:12: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 05:35:13: .Net SqlClient Data Provider; Infracción de la restricción PRIMARY KEY 'PK__SL_EXPED__0E79C0A37082F44A'. No se puede insertar una clave duplicada en el objeto 'dbo.SL_EXPEDIENTE_LEGAL'. El valor de la clave duplicada es (1).
+Se terminó la instrucción.
+21/12/2018 07:40:11: mscorlib; Valor demasiado grande o demasiado pequeño para Int32.
+21/12/2018 07:40:38: mscorlib; Valor demasiado grande o demasiado pequeño para Int32.
+21/12/2018 07:45:31: mscorlib; El valor no puede ser nulo.
+Nombre del parámetro: String
+21/12/2018 10:17:08: .Net SqlClient Data Provider; Arithmetic overflow error converting expression to data type nvarchar.
+The statement has been terminated.
+24/12/2018 05:10:17: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:11:33: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:12:31: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:13:09: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:14:13: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:15:21: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+24/12/2018 05:17:22: .Net SqlClient Data Provider; El nombre de columna 'NUMERO_OPERACION' no es válido.
+26/12/2018 14:57:40: System.Data; La conversión especificada no es válida.
+26/12/2018 14:58:53: System.Data; La conversión especificada no es válida.
+26/12/2018 15:00:12: System.Data; La conversión especificada no es válida.
+26/12/2018 15:01:05: System.Data; La conversión especificada no es válida.
+26/12/2018 15:14:35: System.Data; La conversión especificada no es válida.
+26/12/2018 15:14:54: System.Data; La conversión especificada no es válida.
+27/12/2018 13:59:52: .Net SqlClient Data Provider; Procedure or function SL_SP_REGISTRAR_PAGO has too many arguments specified.
+27/12/2018 14:00:24: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:00:30: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:03:41: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:04:04: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:06:39: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:44:48: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+27/12/2018 14:45:35: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+19/2/2019 13:46:02: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS_GT'.
+19/2/2019 13:59:29: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS_GT'.
+19/2/2019 13:59:43: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS_GT'.
+19/2/2019 14:26:57: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS_GT'.
+19/2/2019 08:12:34: .Net SqlClient Data Provider; No se encontró el procedimiento almacenado 'SL_SP_CANTIDAD_ETAPAS'.
+27/3/2019 09:25:08: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:09:01: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:09:56: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:11:11: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:11:43: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:12:05: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:13:11: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:19:18: System.Data; Índice fuera de los límites de la matriz.
+27/3/2019 10:26:57: System.Data; Índice fuera de los límites de la matriz.
+3/4/2019 08:59:02: .Net SqlClient Data Provider; Invalid column name 'MONTO_MENSUAL'.
+Invalid column name 'FECHA_INICIO_PAGO'.
+3/4/2019 08:59:19: .Net SqlClient Data Provider; Invalid column name 'MONTO_MENSUAL'.
+Invalid column name 'FECHA_INICIO_PAGO'.
+3/4/2019 09:01:40: .Net SqlClient Data Provider; Invalid column name 'MONTO_MENSUAL'.
+Invalid column name 'FECHA_INICIO_PAGO'.
+11/6/2019 04:46:06: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:32: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:33: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+11/6/2019 04:46:33: .Net SqlClient Data Provider; Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+2/7/2019 08:00:33: .Net SqlClient Data Provider; Se agotó el tiempo de espera de ejecución. El período de tiempo de espera transcurrió antes de la finalización de la operación o el servidor no responde.
+19/7/2019 11:15:45: mscorlib; La cadena de entrada no tiene el formato correcto.
+19/7/2019 11:16:06: mscorlib; La cadena de entrada no tiene el formato correcto.
+19/7/2019 11:34:48: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS'.
+19/7/2019 11:50:55: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS'.
+19/7/2019 11:52:01: .Net SqlClient Data Provider; Could not find stored procedure 'SL_SP_CANTIDAD_ETAPAS'.
+19/7/2019 15:03:47: .Net SqlClient Data Provider; Cannot insert the value NULL into column 'ID_HISTORIAL', table 'Pruebas.dbo.SL_HISTORIAL_EXPEDIENTE_LEGAL'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+22/7/2019 09:40:52: mscorlib; No se puede convertir un objeto DBNull en otros tipos.
+30/7/2019 16:31:46: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+5/8/2019 15:16:52: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+6/8/2019 08:58:15: System.Data; Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM.
+6/8/2019 08:58:15: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@USUARIO_MODI' expects the parameter '@USUARIO_MODIFICA', which was not supplied.
+6/8/2019 08:58:27: System.Data; Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM.
+6/8/2019 08:58:28: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@USUARIO_MODI' expects the parameter '@USUARIO_MODIFICA', which was not supplied.
+6/8/2019 08:59:43: System.Data; Desbordamiento de SqlDateTime. Debe estar entre 1/1/1753 12:00:00 AM y 12/31/9999 11:59:59 PM.
+6/8/2019 08:59:43: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@USUARIO_MODI' expects the parameter '@USUARIO_MODIFICA', which was not supplied.
+6/8/2019 09:02:50: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:03:09: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:05:16: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:23:33: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:24:09: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:26:15: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+6/8/2019 09:28:21: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ID_ETAPA int,@ID_SUBETAPA int,@ARCHIV' expects the parameter '@ARCHIVO_ADJUNTO', which was not supplied.
+8/8/2019 08:38:21: .Net SqlClient Data Provider; Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.
+8/8/2019 08:39:58: .Net SqlClient Data Provider; Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The statement has been terminated.
+8/8/2019 09:20:51: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@SENTENCIA nv' expects the parameter '@SENTENCIA', which was not supplied.
+8/8/2019 09:23:30: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@SENTENCIA nv' expects the parameter '@SENTENCIA', which was not supplied.
+8/8/2019 13:07:36: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@SENTENCIA nv' expects the parameter '@SENTENCIA', which was not supplied.
+8/8/2019 13:12:35: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+12/8/2019 09:52:56: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@SENTENCIA nv' expects the parameter '@SENTENCIA', which was not supplied.
+12/8/2019 09:54:11: .Net SqlClient Data Provider; The parameterized query '(@ID_EXPEDIENTE_LEGAL int,@ETAPA int,@SUBETAPA int,@SENTENCIA nv' expects the parameter '@SENTENCIA', which was not supplied.
+12/8/2019 18:53:08: .Net SqlClient Data Provider; Invalid column name 'SCOPE'.
+05/09/2019 14:25:03: .Net SqlClient Data Provider; Error en el nivel del transporte al recibir los resultados del servidor. (provider: TCP Provider, error: 0 - Se agotó el tiempo de espera del semáforo.)
+05/09/2019 14:25:44: .Net SqlClient Data Provider; Error en el nivel del transporte al recibir los resultados del servidor. (provider: TCP Provider, error: 0 - Se agotó el tiempo de espera del semáforo.)
+7/11/2019 16:39:20: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+7/11/2019 17:04:30: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+7/11/2019 17:04:42: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:09:56: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:10:00: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:10:01: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:11:21: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:12:07: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:14:12: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:14:40: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:45:26: mscorlib; La cadena de entrada no tiene el formato correcto.
+8/11/2019 08:45:36: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:45:38: mscorlib; La cadena de entrada no tiene el formato correcto.
+8/11/2019 08:46:17: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 08:50:11: mscorlib; La cadena de entrada no tiene el formato correcto.
+8/11/2019 08:57:19: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+8/11/2019 09:32:10: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+3/12/2019 08:30:13: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+3/12/2019 08:41:06: mscorlib; La cadena de entrada no tiene el formato correcto.
