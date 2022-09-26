@@ -23,4 +23,4 @@ namespace SEGUIMIENTO_LEGAL.Data
             }
         }
     }
-}
+}  

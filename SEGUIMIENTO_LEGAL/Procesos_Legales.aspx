@@ -128,14 +128,23 @@
     <section class="content">
 
         <div class="box">
-
-            <div class="box-header with-border">
+             <div class="box-header with-border">
 
                  <i class="fa fa-gavel"></i><h3 class="box-title">Casos en Proceso Legal</h3>
 
-                 <asp:Button ID="bExel" runat="server" Text="EXCEL" OnClick="bExel_Click" CssClass="btn btn-success pull-right" />
+                 <asp:Button ID="Button1" runat="server" Text="PROCESO LEGAL" OnClick="bExel_Click" CssClass="btn btn-success pull-right" />
 
-                 <%--<button class="btn btn-primary pull-right" id="btn_Reporte_Excel" style="margin-top: 25px;">Búscar</button>--%>
+                 <%--<button class="btn btn-primary pull-right" id="btn_Reporte_Excel" style="margin-top: 25px;">Búscar</button>--%> 
+                 <%--<dividir los dos botones>--%>
+             </div>
+
+            <div class="box-header with-border">
+
+                 <i class="fa fa-gavel"></i><h3 class="box-title">Casos sin Movimiento Legal</h3>
+
+                 <asp:Button ID="bExel" runat="server" Text="SIN MOVIMIENTO" OnClick="bExel_Click_sin_act" CssClass="btn btn-success pull-right" BackColor="Red" />
+
+                 <%--<button class="btn btn-primary pull-right" id="btn_Reporte_Excel" style="margin-top: 25px;">Búscar</button>--%> 
              </div>
 
             <div class="box-body">
@@ -279,7 +288,7 @@
                         </div>
                     </div> 
 
-                    <div class="col-xs-12">
+                    <div class="col-xs-12" style="display: none">
                         <div class="form-group">
                           <label>Seleccione Documentos Relacionados con el proceso:</label>
 
@@ -526,6 +535,19 @@
 
 </div>
 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 <div id="ver_historial" class="modal fade" role="dialog">
   
     <div class="modal-dialog">
@@ -540,7 +562,7 @@
 
             <button type="button" class="close" data-dismiss="modal">&times;</button>
 
-            <h4 class="modal-title">Historial del Caso
+            <h4 class="modal-title">Historial del Caso 
             </h4>
 
             </div>
@@ -562,7 +584,7 @@
                             </div>
                         </div> 
 
-                        <div class="col-xs-12">
+                        <div class="col-xs-12"> 
                             <div class="form-group">
                               <label>No. Operacion:</label>
                                 <b id="num_ope"></b>
@@ -570,18 +592,14 @@
                             <hr />
                         </div>                                         
 
-<%--                    <div class="col-xs-12">
-                        <div class="form-group">
-                          <label>Cliente:</label>
-                            <b id="client"></b>
-                        </div>
-                    </div> --%>
 
+                                
 
-                    <table id="historial" class="table table-striped table-hover" style='width:100%' ">
+           <table id="historial" class="table table-striped table-hover" style='width:100%' ">
                 <thead>
                     <tr>
                         <th>Etapa</th>
+                       
                         <th>Subetapa</th>
                         <th>Observaciones</th>
                         <th>Fecha</th>
@@ -621,6 +639,114 @@
 
 </div>
 
+
+
+
+
+
+       <!--==============================================================================================================
+        MODAL PARA VER PDF
+    ===============================================================================================================-->
+    <div id="ver_pdf" class="modal fade" role="dialog">
+  
+    <div class="modal-dialog">
+
+        <div class="modal-content" style="width:800px !important">
+
+        <!--=====================================
+        CABEZA DEL MODAL
+        ======================================-->
+
+            <div class="modal-header" style="background:#27333a; color:white">
+
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            <h4 class="modal-title">Historial PDF'S 
+            </h4>
+
+            </div>
+
+        <!--=====================================
+        CUERPO DEL MODAL
+        ======================================-->
+
+            <div class="modal-body">
+
+                <div class="box-body">
+
+                                                           
+
+                      <div class="col-xs-12">
+                            <div class="form-group">
+                              <label>No. Expediente:</label>
+                                <b id="num_exp_pdf_mostrar"></b>
+                            </div>
+                        </div> 
+
+                        <div class="col-xs-12"> 
+                            <div class="form-group">
+                              <label>No. Operacion:</label>
+                                <b id="num_ope_pdf_mostrar"></b>
+                            </div>
+                            <hr />
+                        </div>                                         
+
+
+
+                    <table id="historial_pdf" class="table table-striped table-hover" style='width:100%' ">
+                <thead>
+                    <tr>
+                        <th>Etapa</th>
+                       
+                        <th>Subetapa</th>
+                        <th>Observaciones</th>
+                        <th>PDF</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>Etapa</th>
+                        <th>Subetapa</th>
+                        <th>Observaciones</th>
+                        <th>PDF</th>
+                    </tr>
+                </tfoot>
+            </table>
+
+            </div>
+
+        </div>
+
+            <!--=====================================
+        PIE DEL MODAL
+        ======================================-->
+
+        <div class="modal-footer">
+
+            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Salir</button>
+
+          <%--  <asp:Button class="btn btn-danger" Text="Registar" ID="registrar_movimiento_caso" ClientIDMode="Static" runat="server"/>--%>
+
+        </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+    <!--===============================================================================================================
+    =================================================================================================================-->
+
+
+
+
+
 <div id="ver_detalles_demanda" class="modal fade" role="dialog">
   
     <div class="modal-dialog">
@@ -635,7 +761,7 @@
 
             <button type="button" class="close" data-dismiss="modal">&times;</button>
 
-            <h4 class="modal-title">Información del Caso
+            <h4 class="modal-title">Información del Caso 
             </h4>
 
             </div>
@@ -793,6 +919,99 @@
 
 </div>
 
+    <!--============================================ modal para cargar pdf================================================ -->
+    <div id="cargar_pdf" class="modal fade" role="dialog">
+  
+    <div class="modal-dialog">
+
+        <div class="modal-content" style="width:600px !important">
+
+        <!--=====================================
+        CABEZA DEL MODAL
+        ======================================-->
+
+            <div class="modal-header" style="background:#27333a; color:white">
+
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            <h4 class="modal-title">CARGAR PDF'S
+            </h4>
+
+            </div>
+
+        <!--=====================================
+        CUERPO DEL MODAL
+        ======================================-->
+
+            <div class="modal-body">
+
+                <div class="box-body">
+                
+                    
+                       
+                    
+                  
+
+                  <div class="col-md-12 col-xs-12">
+                        <div class="form-group">
+                          <label>Seleccione Etapa:</label>
+                            <input type="hidden"  name="num_exp_pdf" id="num_exp_pdf"/>
+                            
+                         
+
+                          <select class="form-control" name="etapa_pdf" id="etapa_pdf" required="required"></select>
+                        </div>
+                    </div> 
+               
+
+                        <div class="col-xs-12">
+                        <div class="form-group">
+                          <label>Seleccione Documentos Relacionados con el proceso:</label>
+
+                            <input type="file" name="archivos" id="File1" ClientIDMode="Static" runat="server" multiple="multiple"/>
+                        </div>
+                    </div> 
+
+                     <div class="col-md-12">
+                        <div class="form-group">
+                          <label>Detalles:</label>
+                            <textarea class="form-control" name="detalles_pdf" id="detalles_pdf" style="height: 200px;"></textarea>
+                           <%-- <input type="text" class="form-control" name="detalles" id="detalles">--%>
+                        </div>
+                    </div> 
+
+
+
+                   
+               
+
+                 
+
+                    
+
+        <!--=====================================
+        PIE DEL MODAL
+        ======================================-->       
+
+            </div>
+
+        </div>
+
+            <div class="modal-footer">
+
+                <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Salir</button>
+                <asp:Button class="btn btn-danger" Text="Registar" ID="Button5" OnClick="btn_registrar_pdf_Click" ClientIDMode="Static" runat="server"/>
+
+         </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+    <!--============================================ termina modal carga pdf ============================================ -->
 
     <% if (Session["administrador"].ToString() == "1")
         { %>

@@ -13,7 +13,7 @@ namespace SEGUIMIENTO_LEGAL.Data
     {
         private SqlConnection cxn;
         private SqlConnection cxn_summa;
-        private Escritor error;
+        private Escritor error; 
 
         public Conexion()
         {
@@ -43,7 +43,7 @@ namespace SEGUIMIENTO_LEGAL.Data
                     cxn.Open();
 
                     SqlDataReader lector = cmd.ExecuteReader();
-
+                    
                     while (lector.Read())
                     {
                         etapa = new Etapas();
@@ -204,6 +204,7 @@ namespace SEGUIMIENTO_LEGAL.Data
                 cmd.Parameters.AddWithValue("@OFICIAL_A_CARGO", expediente.oficial);
                 cmd.Parameters.AddWithValue("@DETALLES", expediente.observaciones);
                 cmd.Parameters.AddWithValue("@USUARIO_INCLUYE", expediente.nombre_usuario);
+                cmd.Parameters.AddWithValue("@FECHA", "12/02/2022");
                 cmd.CommandType = CommandType.StoredProcedure;
                 cxn.Open();
 
@@ -613,7 +614,7 @@ namespace SEGUIMIENTO_LEGAL.Data
 
                 while (lector.Read())
                 {
-                    rstp.nombre_completo = lector.GetString(1);
+                    rstp.nombre_completo = lector.GetString(1); 
                     rstp.usuario = lector.GetString(2);
                     rstp.perfil = lector.GetInt32(6);
                     rstp.admin = lector.GetInt32(7);
@@ -930,7 +931,7 @@ public List<Resumen_Expedientes_Legales> obtener_expedientes_legales_filtro(stri
 }
 
 
-public DataTable obtener_expedientes_Reporte(string nombre, string numero_proceso, string numero_operacion, int etapa, int subetapa, int estado)
+public DataTable obtener_expedientes_Reporte(string nombre, string numero_proceso, string numero_operacion, int etapa, int subetapa, int estado, string fecha)
 {
 
     DataTable data = null;
@@ -974,6 +975,7 @@ public DataTable obtener_expedientes_Reporte(string nombre, string numero_proces
 									CL.NOMBRE_COMPLETO CLIENTE,
 									EX.NUMERO_OPERACION OPERACION,
 									EX.NOMBRE_JUZGADO JUZGADO,
+                                    
 									ISNULL(EX.NUMERO_PROCESO,'') 'NUMERO DE PROCESO',
 									EX.OFICIAL_A_CARGO OFICIAL,
                                     ISNULL(EX.MONTO_DEMANDA,0) 'MONTO DEMANDA',
@@ -986,12 +988,16 @@ public DataTable obtener_expedientes_Reporte(string nombre, string numero_proces
 									 IIF( CONVERT(nvarchar(25), EX.EMBARGO_OTRO) ='1', 'SI', 'NO') 'OTROS',
                                     ET.NOMBRE_ETAPA ETAPA,
 								    SU.NOMBRE_SUBETAPA 'SUB ETAPA',
+                                   
 									EX.DETALLES DETALLE,
+                                  
 									 ISNULL(EX.MONTO_CANCELAR, 0) 'MONTO NEGOCIACION',
-									 ISNULL(EX.MONTO_MENSUAL, 0) 'MONTO RECIBIDO'
+									 ISNULL(EX.MONTO_MENSUAL, 0) 'MONTO RECIBIDO',
+                                      HE.fechaDOM 'FECHA_ACTUALIZACION'
                                     FROM SL_EXPEDIENTE_LEGAL AS EX WITH(NOLOCK)
                                     INNER JOIN SL_CLIENTES AS CL WITH(NOLOCK) ON CL.ID_CLIENTE = EX.ID_CLIENTE
                                     INNER JOIN SL_ETAPAS AS ET WITH(NOLOCK) ON ET.ID_ETAPA = EX.ID_ETAPA 
+                                    INNER JOIN  (SELECT ID_EXPEDIENTE_LEGAL, MAX(CAST(FECHA_INCLUYE  AS DATE)) as fechaDOM FROM SL_HISTORIAL_EXPEDIENTE_LEGAL GROUP BY ID_EXPEDIENTE_LEGAL ) HE ON  HE.ID_EXPEDIENTE_LEGAL = EX.ID_EXPEDIENTE_LEGAL  
                                     INNER JOIN SL_SUBETAPAS AS SU WITH(NOLOCK)	
                                     ON SU.ID_SUBETAPA = EX.ID_SUBETAPA " + consulta_nombre + consulta_numero_proceso + consulta_numero_operacion + consulta_etapa + consulta_subetapa + @"
                                     WHERE EX.ESTADO=@ESTADO
@@ -1003,6 +1009,7 @@ public DataTable obtener_expedientes_Reporte(string nombre, string numero_proces
         cmd.Parameters.AddWithValue("@ETAPA", etapa);
         cmd.Parameters.AddWithValue("@SUBETAPA", subetapa);
         cmd.Parameters.AddWithValue("@ESTADO", estado);
+       
         cxn.Open();
 
 
@@ -1027,7 +1034,157 @@ public DataTable obtener_expedientes_Reporte(string nombre, string numero_proces
     return data;
 }
 
-public List<Informacion_Etapa> obtener_preparacion_demanda()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public DataTable obtener_expedientes_Reporte_sin_mov(string nombre, string numero_proceso, string numero_operacion, int etapa, int subetapa, int estado, string fecha)
+        {
+
+            DataTable data = null;
+
+            SqlCommand cmd = null;
+
+            string consulta_etapa = string.Empty;
+            string consulta_subetapa = string.Empty;
+            string consulta_nombre = string.Empty;
+            string consulta_numero_proceso = string.Empty;
+            string consulta_numero_operacion = string.Empty;
+
+            if (nombre != "")
+            {
+                consulta_nombre = " AND CL.NOMBRE_COMPLETO LIKE @NOMBRE";
+            }
+
+            if (numero_proceso != "")
+            {
+                consulta_numero_proceso = " AND NUMERO_PROCESO LIKE @NUMERO_PROCESO";
+            }
+
+            if (numero_operacion != "")
+            {
+                consulta_numero_operacion = " AND NUMERO_OPERACION LIKE @NUMERO_OPERACION";
+            }
+
+            if (etapa != 0)
+            {
+                consulta_etapa = " AND EX.ID_ETAPA = @ETAPA";
+            }
+
+            if (subetapa != 0)
+            {
+                consulta_subetapa = " AND EX.ID_SUBETAPA = @SUBETAPA";
+            }
+
+            try
+            {
+                cmd = new SqlCommand(@"SELECT EX.ID_EXPEDIENTE_LEGAL EXPEDIENTE,
+									CL.NOMBRE_COMPLETO CLIENTE,
+									EX.NUMERO_OPERACION OPERACION,
+									EX.NOMBRE_JUZGADO JUZGADO,
+                                    
+									ISNULL(EX.NUMERO_PROCESO,'') 'NUMERO DE PROCESO',
+									EX.OFICIAL_A_CARGO OFICIAL,
+                                    ISNULL(EX.MONTO_DEMANDA,0) 'MONTO DEMANDA',
+									CASE WHEN EX.ESTADO =1 Then 'ADMITIDA'
+										 WHEN EX.ESTADO =2 Then 'RECHAZADA'
+										 WHEN EX.ESTADO = 0 Then 'CERRADO'
+										END ESTADO,
+									 IIF( CONVERT(nvarchar(25),EX.EMBARGO_BANCO) ='1', 'SI', 'NO') 'BANCO',
+									 IIF( CONVERT(nvarchar(25),EX.EMBARGO_SALARIO) ='1', 'SI', 'NO') 'SALARIO',
+									 IIF( CONVERT(nvarchar(25), EX.EMBARGO_OTRO) ='1', 'SI', 'NO') 'OTROS',
+                                    ET.NOMBRE_ETAPA ETAPA,
+								    SU.NOMBRE_SUBETAPA 'SUB ETAPA',
+                                   
+									EX.DETALLES DETALLE,
+                                  
+									 ISNULL(EX.MONTO_CANCELAR, 0) 'MONTO NEGOCIACION',
+									 ISNULL(EX.MONTO_MENSUAL, 0) 'MONTO RECIBIDO',
+                                      HE.fechaDOM 'FECHA_ACTUALIZACION'
+                                    FROM SL_EXPEDIENTE_LEGAL AS EX WITH(NOLOCK)
+                                    INNER JOIN SL_CLIENTES AS CL WITH(NOLOCK) ON CL.ID_CLIENTE = EX.ID_CLIENTE
+                                    INNER JOIN SL_ETAPAS AS ET WITH(NOLOCK) ON ET.ID_ETAPA = EX.ID_ETAPA 
+                                    INNER JOIN  (SELECT ID_EXPEDIENTE_LEGAL,  DATEDIFF(MONTH,  MAX(CAST(FECHA_INCLUYE  AS DATE)), SYSDATETIME()) AS fechmont  , MAX(CAST(FECHA_INCLUYE  AS DATE)) as fechaDOM FROM SL_HISTORIAL_EXPEDIENTE_LEGAL GROUP BY ID_EXPEDIENTE_LEGAL ) HE ON  (HE.ID_EXPEDIENTE_LEGAL = EX.ID_EXPEDIENTE_LEGAL)  AND  (HE.fechmont > 4)
+                                    INNER JOIN SL_SUBETAPAS AS SU WITH(NOLOCK)	
+                                    ON SU.ID_SUBETAPA = EX.ID_SUBETAPA " + consulta_nombre + consulta_numero_proceso + consulta_numero_operacion + consulta_etapa + consulta_subetapa + @"
+                                    WHERE EX.ESTADO=@ESTADO
+                                    ORDER BY EX.FECHA_INCLUYE DESC", cxn);
+
+                cmd.Parameters.AddWithValue("@NOMBRE", "%" + nombre + "%");
+                cmd.Parameters.AddWithValue("@NUMERO_PROCESO", "%" + numero_proceso + "%");
+                cmd.Parameters.AddWithValue("@NUMERO_OPERACION", "%" + numero_operacion + "%");
+                cmd.Parameters.AddWithValue("@ETAPA", etapa);
+                cmd.Parameters.AddWithValue("@SUBETAPA", subetapa);
+                cmd.Parameters.AddWithValue("@ESTADO", estado);
+
+                cxn.Open();
+
+
+                SqlDataAdapter sda = new SqlDataAdapter();
+
+                sda.SelectCommand = cmd;
+
+                data = new DataTable();
+                sda.Fill(data);
+
+            }
+            catch (Exception ex)
+            {
+
+                error.logError(ex);
+            }
+            finally
+            {
+                cxn.Close();
+            }
+
+            return data;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public List<Informacion_Etapa> obtener_preparacion_demanda()
 {
     List<Informacion_Etapa> registros = new List<Informacion_Etapa>();
     Informacion_Etapa registro = null;
@@ -1420,13 +1577,14 @@ public List<Historial_Expediente> obtener_historial(int id_expediente)
         while (lector.Read())
         {
             registro = new Historial_Expediente();
-
+           
             registro.nombre_etapa = lector.GetString(0);
             registro.nombre_subetapa = lector.GetString(1);
             registro.ruta_archivos = lector.GetString(2);
             registro.detalles = lector.GetString(3);
             registro.usuario = lector.GetString(4);
             registro.fecha_registro = lector.GetDateTime(5).ToString();
+                     registro.id = lector.GetInt32(6);
 
             registros.Add(registro);
         }
@@ -1445,8 +1603,60 @@ public List<Historial_Expediente> obtener_historial(int id_expediente)
     return registros;
 
 }
+        ///////////////////////////////////////////////////////////////////////////////////////// OBTENER PDF ////////////////////////////////////////////////////////////////
 
-public List<Historial_Expediente> obtener_historial_etapa(int id_expediente, int etapa)
+        public List<Historial_Expediente> obtener_historial_pdf(int id_expediente)
+        {
+            List<Historial_Expediente> registros = new List<Historial_Expediente>();
+            Historial_Expediente registro = null;
+
+            try
+            {
+
+                //SqlCommand cmd = new SqlCommand(@"SELECT ET.NOMBRE_ETAPA, SU.NOMBRE_SUBETAPA, HE.ARCHIVO_ADJUNTO,HE.DETALLES, HE.USUARIO_INCLUYE,HE.FECHA_INCLUYE FROM SL_HISTORIAL_EXPEDIENTE_LEGAL AS HE WITH(NOLOCK) 
+                //        INNER JOIN SL_ETAPAS AS ET WITH(NOLOCK) ON ET.ID_ETAPA = HE.ID_ETAPA  INNER JOIN SL_SUBETAPAS AS SU WITH(NOLOCK) ON SU.ID_SUBETAPA = HE.ID_SUBETAPA
+                //        WHERE HE.ID_EXPEDIENTE_LEGAL = @ID AND HE.ESTADO = 1 ORDER BY FECHA_INCLUYE DESC;", cxn);
+                SqlCommand cmd = new SqlCommand(@"SP_SL_PDF_VER", cxn);
+                cmd.Parameters.AddWithValue("@ID", id_expediente);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cxn.Open();
+
+
+                SqlDataReader lector = cmd.ExecuteReader();
+
+                while (lector.Read())
+                {
+                    registro = new Historial_Expediente();
+
+                    registro.nombre_etapa = lector.GetString(0);
+                    registro.nombre_subetapa = lector.GetString(1);
+                    registro.detalles = lector.GetString(2);
+                    registro.ruta_archivos = "<a href='"+lector.GetString(3)+ "' target='_blank'>" + "PDF"+"</a>";
+                    
+
+                    registros.Add(registro);
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                error.logError(ex);
+            }
+            finally
+            {
+                cxn.Close();
+            }
+
+            return registros;
+
+        }
+
+
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        public List<Historial_Expediente> obtener_historial_etapa(int id_expediente, int etapa)
 {
     List<Historial_Expediente> registros = new List<Historial_Expediente>();
     Historial_Expediente registro = null;
@@ -1731,7 +1941,49 @@ public void registrar_rutas(string rutas, int numero_expediente)
 
 }
 
-public bool cerrar_proceso(int numero_expediente, string juztificacion)
+
+        ///////////////////////////////////////////////////////////////////// RUTAS VARIOS PDF'S ////////////////////////////////////////////////////////////////////////
+
+        public void registrar_rutas_pdf(string rutas, int numero_expediente, string detalles)
+        {
+            try
+            {
+
+                //SqlCommand cmd = new SqlCommand(@"UPDATE SL_HISTORIAL_EXPEDIENTE_LEGAL SET ARCHIVO_ADJUNTO = @RUTA WHERE ID_HISTORIAL = (SELECT TOP 1 ID_HISTORIAL FROM SL_HISTORIAL_EXPEDIENTE_LEGAL WHERE ID_EXPEDIENTE_LEGAL = @ID ORDER BY ID_HISTORIAL DESC)", cxn);
+
+                SqlCommand cmd = new SqlCommand(@"SP_SL_PDF", cxn);
+                cmd.Parameters.AddWithValue("@RUTA", rutas);
+                cmd.Parameters.AddWithValue("@ID", numero_expediente);
+                cmd.Parameters.AddWithValue("@DET", detalles);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cxn.Open();
+
+                cmd.ExecuteNonQuery();
+
+            }
+            catch (Exception ex)
+            {
+
+                error.logError(ex);
+            }
+            finally
+            {
+                cxn.Close();
+            }
+
+        }
+
+
+
+
+
+
+
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public bool cerrar_proceso(int numero_expediente, string juztificacion)
 {
     bool resultado = false;
 
@@ -2149,6 +2401,11 @@ public bool anular_proceso(int numero_expediente, string justificacion_anulacion
                 cxn.Close();
             }
             return result;
+        }
+
+        internal void registrar_rutas(string rutas, string v)
+        {
+            throw new NotImplementedException();
         }
     }
 }

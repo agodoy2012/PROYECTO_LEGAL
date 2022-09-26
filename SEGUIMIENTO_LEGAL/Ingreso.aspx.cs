@@ -72,7 +72,7 @@ namespace SEGUIMIENTO_LEGAL
 
                 }
 
-                    cxn.registrar_rutas(rutas, int.Parse(Request.Form["num_expediente"]));
+                   // cxn.registrar_rutas(rutas, int.Parse(Request.Form["num_expediente"]));
 
             }
 

@@ -14,8 +14,8 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SEGUIMIENTO_LEGAL</RootNamespace>
     <AssemblyName>SEGUIMIENTO_LEGAL</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
-    <UseIISExpress>false</UseIISExpress>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -902,7 +902,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>49787</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost/SEGUIMIENTO_LEGAL</IISUrl>
+          <IISUrl>http://localhost:49787/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

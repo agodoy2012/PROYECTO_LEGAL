@@ -6,7 +6,7 @@ var opciones_notificacion = new Array();
 
 function init() {
 
-    etapa_consulta = getParameterByName('etapa');
+    etapa_consulta = getParameterByName('etapa'); 
     
 
     $("#listas").addClass("active");
@@ -86,6 +86,9 @@ function cargar_informacion() {
 
                             }
 
+                        
+
+                           
                             opciones += '<div class="btn-group">' +
                                 '<button type = "button" class="btn btn-danger" > Opciones </button >' +
                                 '<button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false">' +
@@ -103,15 +106,25 @@ function cargar_informacion() {
                                        
                                                     
                             opciones +=      '</ul>' +
-                                        '</div >';
+                                        '</div >\n';
 
-
+                  
+                            opciones += '<div class="btn-group">' +
+                                '<button type = "button" class="btn btn-danger" > PDF </button >' +
+                                '<button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false">' +
+                                '<span class="caret"></span>' +
+                                '<span class="sr-only">Toggle Dropdown</span>' +
+                                '</button>' +
+                                '<ul class="dropdown-menu" role="menu">' +
+                               
+                                '<li><a onclick=mostrar_historial_pdf("' + row.numero_expediente + '","' + row.numero_operacion + '") data-toggle="modal" data-target="#ver_pdf">VER</a></li>' +
+                                '<li><a onclick=cargarpdf("' + row.numero_expediente + '") data-toggle="modal" data-target="#cargar_pdf">CARGAR</a></li></ul></div >\n';
                             return opciones;
 
                         }
 
                     }
-
+                     
                 ],
 
                 "language": {
@@ -184,6 +197,60 @@ function cargar_etapas() {
         }
     });
 }
+
+/////////////////////////////////////////////////////////////////////////////// cargar historial //////////////////////////////////////////////////////////////////////////////////////////
+
+function cargar_historial_pdf() {
+    $.ajax({
+        type: "POST",
+        dataType: "json",
+        url: "Ajax/Conexion_Ajax.aspx/obtener_etapas",
+        contentType: "application/json; chartset=utf-8",
+        processData: false,
+        success: function (data) {
+
+            //console.log(data);  
+
+            $("#etapa").empty();
+            $("#etapa_filtro").empty();
+
+            document.getElementById("etapa_filtro").innerHTML += "<option value=''>SELECCIONE...</option>";
+
+            for (var i = 0; i < data["d"].length; i++) {
+
+                document.getElementById("etapa").innerHTML += "<option value='" + data["d"][i]["id_etapa"] + "'>" + data["d"][i]["nombre"] + "</option>";
+                document.getElementById("etapa_filtro").innerHTML += "<option value='" + data["d"][i]["id_etapa"] + "'>" + data["d"][i]["nombre"] + "</option>";
+            }
+
+            if (etapa_consulta != "") {
+
+                $("#etapa_filtro").val(etapa_consulta);
+            }
+
+            cargar_subetapas_iniciales(data["d"][0]["id_etapa"]);
+
+        }
+    });
+}
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
 
 function cargar_subetapas_iniciales(etapa) {
 
@@ -444,6 +511,57 @@ function datos_presentacion_demanda() {
     }
 }
 
+//////////////////////////////////////////////////////////////////////////////////////////CARGAR HISTORIAL EN PDF INSERT /////////////////////////////////////////////////////////////////////////////////
+function cargarpdf(numero_expediente) {
+    $("#etapa").val(1);
+    $("#num_expediente").val(numero_expediente);
+    $("#num_exp_pdf").val(numero_expediente);
+
+     
+
+    var datos = { numero_expediente: numero_expediente };
+
+    $.ajax({
+        type: "POST",
+        dataType: "json",
+        url: "Ajax/Conexion_Ajax.aspx/mostrar_historial",
+        data: JSON.stringify(datos),
+        contentType: "application/json; chartset=utf-8",
+        processData: false,
+        success: function (respuesta) {
+
+
+
+
+
+
+
+            document.getElementById("etapa_pdf").innerHTML = "";
+            document.getElementById("etapa_pdf").innerHTML += "<option value=''>SELECCIONE...</option>";
+
+            for (var i = 0; i < respuesta["d"].length; i++) {
+               
+                document.getElementById("etapa_pdf").innerHTML += "<option value='" + respuesta["d"][i]["id"] + "'>" + "ETAPA: " + respuesta["d"][i]["nombre_etapa"] + " SUB-ETAPA:  "+ respuesta["d"][i]["nombre_subetapa"] + "</option>";
+
+            }
+
+             
+
+
+        }
+    });
+
+
+
+
+
+
+
+
+}
+
+
+
 function tramitar(numero_expediente) {
     $("#etapa").val(1);
     $("#num_expediente").val(numero_expediente);
@@ -625,6 +743,85 @@ function mostrar_historial(numero_expediente, numero_operacion) {
     });
 
 }
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////// MOSTRAR HISTORIAL DE PDF CARGADOS ///////////////////////////////////////////
+
+function mostrar_historial_pdf(numero_expediente, numero_operacion) {
+   
+
+    $("#num_exp_pdf_mostrar").html(numero_expediente);
+    $("#num_ope_pdf_mostrar").html(numero_operacion);
+    //$("#client").html(nombre_cliente);
+
+    var datos = { numero_expediente: numero_expediente };
+
+    $.ajax({
+        type: "POST",
+        dataType: "json",
+        url: "Ajax/Conexion_Ajax.aspx/mostrar_historial_pdf",
+        data: JSON.stringify(datos),
+        contentType: "application/json; chartset=utf-8",
+        processData: false,
+        success: function (data) {
+
+            datatable_historial = $('#historial_pdf').DataTable({
+                destroy: true,
+                order: false,
+                data: data["d"],
+                columns: [
+                    { 'data':'nombre_etapa' },
+                    { 'data': 'nombre_subetapa' },
+                    { 'data': 'detalles' },
+                    { 'data': 'ruta_archivos' }
+                ],
+
+                "language": {
+
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+
+                    },
+                    "oAria": {
+                        "sSortAscending": ": Activar para ordenar la columna de manera ascendente",
+                        "sSortDescending": ": Activar para ordenar la columna de manera descendente"
+                    }
+
+                }
+
+            });
+            $('label').addClass('form-inline');
+            $('input[type="search"]').addClass('form-control redondeando  input-md');
+            $('select').addClass('form-control input-md');
+        }
+    });
+    console.log(data)
+}
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 function mostrar_informacion_demanda(numero_expediente, numero_operacion) {
 
@@ -1558,13 +1755,13 @@ function cargar_informacion_filtro(nombre, numero_proceso, numero_operacion, eta
                         data: null, render: function (row) {
 
                             var opciones = '';
-
+                             
                             if (row.estado == 1) {
 
                                 opciones += '<a id="btn_aplicar" class="btn btn-primary" onclick=tramitar("' + row.numero_expediente + '") data-toggle="modal" data-target="#tramitar_proceso"  ><i class="fa fa-sign-out"></i> Tramitar</a>\n';
 
                             }
-                            debugger;
+                            
                             opciones += '<div class="btn-group">' +
                                 '<button type = "button" class="btn btn-danger" > Opciones </button >' +
                                 '<button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false">' +
@@ -1574,6 +1771,7 @@ function cargar_informacion_filtro(nombre, numero_proceso, numero_operacion, eta
                                 '<ul class="dropdown-menu" role="menu">' +
                                 '<li><a onclick=mostrar_historial("' + row.numero_expediente + '","' + row.numero_operacion + '") data-toggle="modal" data-target="#ver_historial">Historial</a></li>' +
                                 '<li><a onclick=mostrar_informacion_demanda("' + row.numero_expediente + '","' + row.numero_operacion + '")  data-toggle="modal" data-target="#ver_detalles_demanda">Info. Demanda</a></li>';
+                               
 
                             if (row.estado == 1) {
                                 opciones += '<li class="opciones-menu"><a onclick=anular_caso("' + row.numero_expediente + '","' + row.numero_operacion + '")  data-toggle="modal" data-target="#ventana_anular_caso">Rechazar Caso</a></li>' +

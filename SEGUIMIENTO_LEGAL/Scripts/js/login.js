@@ -14,7 +14,7 @@ $("#btn_ingreso").click(function (e) {
         processData: false,
         dataType: "json",
         success: function (respuesta) {
-            debugger;
+          
             var respuest= respuesta;
             if (respuesta["d"] == true) {
 

@@ -39,7 +39,7 @@ namespace SEGUIMIENTO_LEGAL.Ajax
             List<Subetapas> subetapas = cxn.mostrar_subetapas_por_etapa(etapa);
 
             return subetapas;
-        }
+        } 
 
         [WebMethod(EnableSession = true)]
         public static bool verificar_duplicacion(string numero_operacion)
@@ -399,6 +399,8 @@ namespace SEGUIMIENTO_LEGAL.Ajax
             bool acceso = false;
 
             Usuario usuario = cxn.validacion_acceso(login, pass);
+           
+           
 
             if (usuario.usuario != null && usuario.nombre_completo!=null)
             {
@@ -408,7 +410,7 @@ namespace SEGUIMIENTO_LEGAL.Ajax
                 HttpContext.Current.Session.Add("administrador", usuario.admin);
 
                 acceso = true;
-
+                  
             }
 
             return acceso;
@@ -541,7 +543,7 @@ namespace SEGUIMIENTO_LEGAL.Ajax
             Conexion cxn = new Conexion();
 
             return cxn.obtener_oficiales();
-        }
+        } 
 
         [WebMethod(EnableSession = true)]
         public static List<Historial_Expediente> mostrar_historial(int numero_expediente)
@@ -550,6 +552,18 @@ namespace SEGUIMIENTO_LEGAL.Ajax
 
             return cxn.obtener_historial(numero_expediente);
         }
+
+
+
+        [WebMethod(EnableSession = true)]
+        public static List<Historial_Expediente> mostrar_historial_pdf(int numero_expediente)
+        {
+            Conexion cxn = new Conexion();
+
+            return cxn.obtener_historial_pdf(numero_expediente);
+        }
+
+       
 
         [WebMethod(EnableSession = true)]
         public static List<Historial_Expediente> mostrar_historial_etapa(int numero_expediente, int etapa)

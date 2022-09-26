@@ -285,7 +285,7 @@ namespace SEGUIMIENTO_LEGAL.Ajax
             exp.embargo_otro = HttpContext.Current.Request.Form["otro"];
 
             exp.nombre_usuario = usuario;
-
+             
             numero_expediente = cxn.actualizar_expediente_notificacion(exp);
 
             if (numero_expediente > 0)
