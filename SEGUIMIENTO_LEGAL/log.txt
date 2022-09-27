@@ -585,3 +585,44 @@ Incorrect syntax near the keyword 'with'. If this statement is a common table ex
 26/09/2022 8:06:52: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
 26/09/2022 8:22:53: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
 26/09/2022 9:02:52: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 11:35:17: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:02:33: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:03:24: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:05:47: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:09:31: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:11:10: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:16:14: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:23:28: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:26:14: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:29:50: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:30:53: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:31:37: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:36:37: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:40:35: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:41:14: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:42:07: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:45:49: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:48:41: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:49:56: mscorlib; La cadena de entrada no tiene el formato correcto.
+26/09/2022 12:54:46: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 12:58:32: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:05:22: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:11:32: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:12:22: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:13:07: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:13:35: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:15:21: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:16:30: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:21:49: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:24:50: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:25:26: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:25:49: mscorlib; El valor no puede ser nulo.
+Nombre del parámetro: String
+26/09/2022 13:26:06: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 13:34:24: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:15:37: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:18:48: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:19:47: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:23:19: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:52:45: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+26/09/2022 14:56:39: System.Data; Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.

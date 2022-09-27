@@ -142,8 +142,33 @@ namespace SEGUIMIENTO_LEGAL
                     var numero = Request.Form["etapa_pdf"];
 
                     var detalles = Request.Form["detalles_pdf"];
-                   cxn.registrar_rutas_pdf(rutas, int.Parse(Request.Form["etapa_pdf"]), Request.Form["detalles_pdf"]);
-                  
+
+
+                    if(etapa!="0")
+                    {
+                        if(rutas.Length > 0)
+                        {
+                            cxn.registrar_rutas_pdf(rutas, int.Parse(Request.Form["etapa_pdf"]), Request.Form["detalles_pdf"]);
+                        }
+                        else
+                        {
+                            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "msg", "alert('NECESITA UN ARCHIVO PDF....')", true);
+                        }
+                       
+                    }
+                    else
+                    {
+
+                        ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "msg", "alert('NO SELECCIONO NINGUNA OPCION')", true);
+
+
+                        
+              
+                     
+
+                    }
+
+
 
                 }
 
@@ -178,6 +203,7 @@ namespace SEGUIMIENTO_LEGAL
             string fecha = "12/2/2022";
 
             Conexion cxn = new Conexion();
+            
 
             DataTable data = cxn.obtener_expedientes_Reporte(p_nombre, p_codigo_proceso, p_numero_operacion, p_etapa,
                 p_subetapa, p_estado, fecha);   

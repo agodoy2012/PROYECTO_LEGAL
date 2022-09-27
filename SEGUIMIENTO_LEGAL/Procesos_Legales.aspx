@@ -953,13 +953,19 @@
                   
 
                   <div class="col-md-12 col-xs-12">
-                        <div class="form-group">
+                        <div class="form-group" novalidate>
                           <label>Seleccione Etapa:</label>
                             <input type="hidden"  name="num_exp_pdf" id="num_exp_pdf"/>
                             
                          
 
-                          <select class="form-control" name="etapa_pdf" id="etapa_pdf" required="required"></select>
+                          <select class="form-control"  required  name="etapa_pdf" id="etapa_pdf"    aria-required="true">
+                               <option  selected value="0" >SELECCIONE UNA OPCION</option>
+
+
+
+
+                          </select>
                         </div>
                     </div> 
                
@@ -976,6 +982,7 @@
                         <div class="form-group">
                           <label>Detalles:</label>
                             <textarea class="form-control" name="detalles_pdf" id="detalles_pdf" style="height: 200px;"></textarea>
+                          
                            <%-- <input type="text" class="form-control" name="detalles" id="detalles">--%>
                         </div>
                     </div> 

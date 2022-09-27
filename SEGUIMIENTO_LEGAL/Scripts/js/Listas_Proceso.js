@@ -536,8 +536,7 @@ function cargarpdf(numero_expediente) {
 
 
 
-            document.getElementById("etapa_pdf").innerHTML = "";
-            document.getElementById("etapa_pdf").innerHTML += "<option value=''>SELECCIONE...</option>";
+            
 
             for (var i = 0; i < respuesta["d"].length; i++) {
                
@@ -811,7 +810,7 @@ function mostrar_historial_pdf(numero_expediente, numero_operacion) {
             $('select').addClass('form-control input-md');
         }
     });
-    console.log(data)
+    
 }
 
 
@@ -836,7 +835,7 @@ function mostrar_informacion_demanda(numero_expediente, numero_operacion) {
         processData: false,
         success: function (data) {
 
-            console.log(data)
+        
 
             $("#num_exp_").val(numero_expediente);
             $("#num_ope_").val(numero_operacion);
@@ -894,7 +893,7 @@ $("#btn_registrar").click(function (e) {
         data.append("Uploaded_Document", "");
     }
 
-    console.log('hola');
+    
     switch (etapa) {
         case '1':
             debugger;
@@ -1123,7 +1122,7 @@ $("#btn_registrar").click(function (e) {
                 data.append("oficial", $("#oficial").val());
 
                 data.append("monto_demanda", $("#monto_demanda").val());
-                console.log($("#monto_demanda").val());
+          
 
 
                 $.ajax({
